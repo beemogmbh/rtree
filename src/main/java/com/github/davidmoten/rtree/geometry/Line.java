@@ -1,7 +1,7 @@
 package com.github.davidmoten.rtree.geometry;
 
-import java.awt.geom.Line2D;
-import java.awt.geom.Line2D.Float;
+import com.github.davidmoten.rtree.geometry.awt.Line2D;
+import com.github.davidmoten.rtree.geometry.awt.Line2D.Float;
 
 import com.github.davidmoten.guavamini.Objects;
 import com.github.davidmoten.guavamini.Optional;
